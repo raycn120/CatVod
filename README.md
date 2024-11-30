@@ -1,0 +1,1 @@
+index.js 、index.config.js 为接口文件，index.config.js.md5 、 index.js.md5为对应的MD5文件。解压并修改index.config.js文件，相应位置按要求填入自己的阿里token，夸克cookie，live直播源地址可设置多地址，部署小雅的填入小雅VOD地址，内置或按网络接口教程部署在云端即可使用，推荐使用 index.js.md5 以便提高加载速度。
